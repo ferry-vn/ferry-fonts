@@ -1,0 +1,41 @@
+/* Ferry VN Mono 1.0.0 — SIL Open Font License 1.1 */
+@font-face {
+  font-family: "Ferry VN Mono";
+  src: url("../fonts/ferry-vn-mono-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-024F, U+0259, U+02B0-02FF, U+0300-036F, U+1E00-1EFF, U+2000-206F, U+20A0-20CF, U+2100-214F, U+2190-2199, U+2212, U+2215, U+FEFF, U+FFFD, U+2190-21FF, U+2200-22FF, U+2500-259F, U+25A0-25FF, U+E0A0-E0A2, U+E0B0-E0B3, U+E100-E10C;
+}
+@font-face {
+  font-family: "Ferry VN Mono";
+  src: url("../fonts/ferry-vn-mono-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-024F, U+0259, U+02B0-02FF, U+0300-036F, U+1E00-1EFF, U+2000-206F, U+20A0-20CF, U+2100-214F, U+2190-2199, U+2212, U+2215, U+FEFF, U+FFFD, U+2190-21FF, U+2200-22FF, U+2500-259F, U+25A0-25FF, U+E0A0-E0A2, U+E0B0-E0B3, U+E100-E10C;
+}
+@font-face {
+  font-family: "Ferry VN Mono";
+  src: url("../fonts/ferry-vn-mono-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-024F, U+0259, U+02B0-02FF, U+0300-036F, U+1E00-1EFF, U+2000-206F, U+20A0-20CF, U+2100-214F, U+2190-2199, U+2212, U+2215, U+FEFF, U+FFFD, U+2190-21FF, U+2200-22FF, U+2500-259F, U+25A0-25FF, U+E0A0-E0A2, U+E0B0-E0B3, U+E100-E10C;
+}
+@font-face {
+  font-family: "Ferry VN Mono";
+  src: url("../fonts/ferry-vn-mono-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0000-024F, U+0259, U+02B0-02FF, U+0300-036F, U+1E00-1EFF, U+2000-206F, U+20A0-20CF, U+2100-214F, U+2190-2199, U+2212, U+2215, U+FEFF, U+FFFD, U+2190-21FF, U+2200-22FF, U+2500-259F, U+25A0-25FF, U+E0A0-E0A2, U+E0B0-E0B3, U+E100-E10C;
+}
+@font-face {
+  font-family: "Ferry VN Mono";
+  src: url("../fonts/ferry-vn-mono-bolditalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0000-024F, U+0259, U+02B0-02FF, U+0300-036F, U+1E00-1EFF, U+2000-206F, U+20A0-20CF, U+2100-214F, U+2190-2199, U+2212, U+2215, U+FEFF, U+FFFD, U+2190-21FF, U+2200-22FF, U+2500-259F, U+25A0-25FF, U+E0A0-E0A2, U+E0B0-E0B3, U+E100-E10C;
+}

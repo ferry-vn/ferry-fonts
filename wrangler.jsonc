@@ -1,0 +1,16 @@
+// CDN fonts.ferry.vn: Worker chỉ phục vụ static assets từ site/ (không có code).
+// _headers (CORS, cache 1 năm cho thư mục phiên bản) và _redirects (/ → trang demo)
+// được Workers static assets áp dụng giống hệt Cloudflare Pages.
+// Mỗi lần deploy thay toàn bộ asset bằng nội dung site/ hiện tại:
+// KHÔNG xoá thư mục phiên bản đã công bố (site/1.0.0/, ...).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ferry-fonts",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./site" },
+
+  // Chỉ phục vụ qua tên miền chính thức.
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "fonts.ferry.vn", "custom_domain": true }]
+}
