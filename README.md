@@ -7,7 +7,7 @@
 
 # Ferry VN Fonts
 
-Bộ font chính thức của [Ferry VN](https://ferryvn.com). Gồm 4 họ, 23 style, đủ tiếng Việt, phát hành miễn phí theo SIL Open Font License 1.1.
+Bộ font chính thức của [Ferry VN](https://ferry.vn). Gồm 4 họ, 23 style, đủ tiếng Việt, phát hành miễn phí theo SIL Open Font License 1.1.
 
 [![Release](https://img.shields.io/github/v/release/ferry-vn/ferry-fonts?label=phi%C3%AAn%20b%E1%BA%A3n&color=2E3199)](https://github.com/ferry-vn/ferry-fonts/releases/latest)
 [![License: OFL-1.1](https://img.shields.io/badge/license-OFL--1.1-2E3199)](OFL.txt)
